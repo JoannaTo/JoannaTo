@@ -14,4 +14,4 @@ Reach out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jovana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovana-todorovic-17a68a230/)&nbsp;&nbsp;&nbsp;[![Mail Badge](https://img.shields.io/badge/-JovanaTodorovic-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:j.todorovic1998@gmail.com)     
 
-:paperclip: [Resume / CV]()
+
